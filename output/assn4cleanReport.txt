@@ -1,0 +1,114 @@
+AA1111111  Astrid, Anna
+
+        1110001        111 Avon Ave    2/1.0  $   300000.00   SOLD
+                   Aerial, CO 80221 
+
+        1110002        112 Avon Ave    2/1.0  $   300000.00   SOLD
+                   Aerial, CO 80221 
+
+        1110003        113 Avon Ave    2/1.0  $   300000.00   SOLD
+                   Aerial, CO 80221 
+
+    Number of Property Listing for Realtor: 3
+    Total sales value of Property Listing for Realtor: $    900000.00
+
+BB2222222  Benson, Bob
+
+        2220001    221 Balloon Blvd    3/1.5  $   750000.00   SOLD
+                Somewhere, WY 80222 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $    750000.00
+
+CC3333333  Carlson, Carl
+
+        3330001       331 Cattle Rd    3/2.0  $   800000.00
+                  Nowhere, WY 80222 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $    800000.00
+
+DD4444444  Davidson, David
+
+        4440001     441 Donner Pass    3/2.0  $   800000.00
+                   Denver, CO 80221 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $    800000.00
+
+EE5555555  Ericson, Eric
+
+        5550001   551 Easter Island    3/2.0  $   900000.00   SOLD
+                  Atlanta, CO 80221 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $    900000.00
+
+FF6666666  Franklin, Freddy
+
+        6660001          661 Boston    2/1.0  $   900000.00
+            Massachusetts, WY 80222 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $    900000.00
+
+GG7777777  Gurley, Gary
+
+        7770001        771 Golf Fwy    2/2.0  $  1200000.00   SOLD
+                   Denver, CO 80221 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $   1200000.00
+
+HH8888888  Henderson, Harry
+
+        8880001      881 Heaven Hwy    2/1.0  $  1300000.00   SOLD
+                   Uptown, CO 80221 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $   1300000.00
+
+II9999999  Iverson, Ivan
+
+        9990001        991 India Pl    4/5.0  $  1400000.00
+                  Bigtown, WY 80222 
+
+    Number of Property Listing for Realtor: 1
+    Total sales value of Property Listing for Realtor: $   1400000.00
+
+JJ1112222  Jameson, James
+
+        1112221      001 Jackson Rd    5/2.0  $   600000.00   SOLD
+                 Somecity, WY 80222 
+
+        1112222      002 Jackson Rd    5/2.0  $   600000.00   SOLD
+                 Somecity, WY 80222 
+
+    Number of Property Listing for Realtor: 2
+    Total sales value of Property Listing for Realtor: $   1200000.00
+
+KK1113333  Kardashian, Kim
+
+        1113331      111 Kellog Cir    7/5.0  $   700000.00   SOLD
+               Georgetown, CO 80221 
+
+        1113332      112 Kellog Cir    7/5.0  $   700000.00   SOLD
+               Georgetown, CO 80221 
+
+    Number of Property Listing for Realtor: 2
+    Total sales value of Property Listing for Realtor: $   1400000.00
+
+LL1114444  Leapers, Lisa
+
+        1114441 111 Long Island Blvd    1/2.0  $   800000.00
+                 Lonepine, WY 80222 
+
+        1114442 112 Long Island Blvd    1/2.0  $   800000.00
+                 Lonepine, WY 80222 
+
+    Number of Property Listing for Realtor: 2
+    Total sales value of Property Listing for Realtor: $   1600000.00
+
+Total Number of PropertyListing for ALL Realtors = 17
+Total sales value of Property Listings for ALL Realtors = $   13150000.00
+

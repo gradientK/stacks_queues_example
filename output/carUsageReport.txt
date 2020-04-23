@@ -1,0 +1,22 @@
+CAR USAGE REPORT
+Carl Carlson is using car number 4
+Anna Astrid is using car number 3
+Eric Ericson is using car number 2
+Gary Gurley is using car number 7
+Lisa Leapers is using car number 6
+David Davidson is using car number 1
+Harry Henderson is using car number 5
+
+AVAILABLE CARS
+   BASIC CARS
+      No basic cars are available
+   LUXURY CARS
+      No luxury cars are available
+
+TOP SELLER QUEUE
+James Jameson is waiting
+Kim Kardashian is waiting
+
+STANDARD REALTOR QUEUE
+Freddy Franklin is waiting
+Bob Benson is waiting
