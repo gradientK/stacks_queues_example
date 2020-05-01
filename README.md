@@ -8,11 +8,11 @@ Excerpt from the assignment:
 Small basic cars are parked in one single line and larger luxury cars are parked in a second single line. There is only one entrance/exit for each line, at the front of lot. Cars are numbered, starting from 1 in the basic line, and continuing the numbering in the luxury line. The lines can currently hold 4 basic cars and 3 luxury cars.
 So the basic cars will be numbered 1 to 4, and the luxury cars will be numbered 5 to 7.
 
-|-----------------------------------------------
+-----------------------------------------------
 | BasicCar1 BasicCar2 BasicCar3 BasicCar4
-|-----------------------------------------------
+-----------------------------------------------
 | LuxuryCar5 LuxuryCar6 LuxuryCar7
-|-----------------------------------------------
+-----------------------------------------------
 
 This program will use stacks and queues to control use of vehicles in the lots.
 As a reward for top sellers, realtors with over \$1,000,000 in property listings have access to the luxury cars. When a realtor requests a car, they will be assigned the first available car from the appropriate line. A top seller is assigned cars from the luxury car line, and everyone else gets cars from the basic car line.
