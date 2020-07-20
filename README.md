@@ -4,7 +4,7 @@ Made this for a class assignment - Stack and Queues week
 
 (Not intended for cheating!)
 Excerpt from the assignment:
-"The real estate office is located in the middle of Denver, where parking is scarce. Therefore, the office maintains some cars for the realtors to use. Due to limited space in the city, parking for the cars is only available one narrow lot that will hold two lines of parked cars.
+"The real estate office is located in the middle of city X, where parking is scarce. Therefore, the office maintains some cars for the realtors to use. Due to limited space in the city, parking for the cars is only available one narrow lot that will hold two lines of parked cars.
 Small basic cars are parked in one single line and larger luxury cars are parked in a second single line. There is only one entrance/exit for each line, at the front of lot. Cars are numbered, starting from 1 in the basic line, and continuing the numbering in the luxury line. The lines can currently hold 4 basic cars and 3 luxury cars.
 So the basic cars will be numbered 1 to 4, and the luxury cars will be numbered 5 to 7.
 
