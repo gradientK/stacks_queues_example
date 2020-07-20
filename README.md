@@ -4,7 +4,7 @@ Made this for a class assignment - Stack and Queues week
 See input and output folders for examples of format of data in text file.
 I got an A.
 
-Right now reads files hardcoded "input/assn4input1.txt" and "input/carInfo1d.txt" in CS310Kim.java processFile() and processCarInfo(), maybe I'll eventually update to prompt user.
+Right now reads files hardcoded "input/assn4input1.txt" and "input/carInfo1d.txt" in CS310Kim.java processFile() and processCarInfo(), respectively. Maybe I'll eventually update to prompt user.
 
 (Not intended for cheating!)
 Excerpt from the assignment:
