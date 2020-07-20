@@ -2,6 +2,7 @@
 
 Made this for a class assignment - Stack and Queues week
 See input and output folders for examples of format of data in text file.
+I got an A.
 
 (Not intended for cheating!)
 Excerpt from the assignment:
