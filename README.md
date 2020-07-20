@@ -4,6 +4,8 @@ Made this for a class assignment - Stack and Queues week
 See input and output folders for examples of format of data in text file.
 I got an A.
 
+Right now reads files hardcoded "input/assn4input1.txt" and "input/carInfo1d.txt" in CS310Kim.java processFile() and processCarInfo(), maybe I'll eventually update to prompt user.
+
 (Not intended for cheating!)
 Excerpt from the assignment:
 "The real estate office is located in the middle of [city X], where parking is scarce. Therefore, the office maintains some cars for the realtors to use. Due to limited space in the city, parking for the cars is only available one narrow lot that will hold two lines of parked cars.
