@@ -1,6 +1,6 @@
 # stacks_queues_example
 
-Made this for a class assignment - Stack and Queues week
+Made this for a Data Structures class assignment - Stack and Queues week
 See input and output folders for examples of format of data in text file.
 I got an A.
 
